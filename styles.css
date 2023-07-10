@@ -35,6 +35,10 @@ article {
 img, p, article {
     margin-left: 90px;
 }
+img {
+    width: 325px;
+    height: 168px;
+}
 
 #mainHeading {
     color: red;
